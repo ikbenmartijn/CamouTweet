@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'HideMe' target in the 'HideMe' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

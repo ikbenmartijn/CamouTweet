@@ -1,0 +1,1558 @@
+THideMe
+v7
+r0
+t303679074.119600
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/Info.plist" HideMe-Info.plist
+cCompileXIB "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/MainWindow.xib"
+cCompileXIB "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/HideMeViewController.xib"
+cCompileXIB "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/overDezeApp.xib"
+cCompileXIB "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/editImage.xib"
+cCompileXIB "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/tweetImage.xib"
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/19-gear.png 19-gear.png
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/IncogniTweet.png IncogniTweet.png
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/background_start.png background_start.png
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/background.png background.png
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/cam_normal.png cam_normal.png
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/cam_pressed.png cam_pressed.png
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/lib_normal.png lib_normal.png
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/lib_pressed.png lib_pressed.png
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/uitleg-links.png uitleg-links.png
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/uitleg-rechts.png uitleg-rechts.png
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/tweet_pressed.png tweet_pressed.png
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/tweet.png tweet.png
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/empty.png empty.png
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/jQueryInject.txt "Classes/Libraries & Headers/jQueryInject.txt"
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/jQueryInjectLandscape.txt "Classes/Libraries & Headers/jQueryInjectLandscape.txt"
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/settings.png settings.png
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/savesettings.png savesettings.png
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/settings_background.png settings_background.png
+cCompileXIB "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/appSettings.xib"
+cCpResource build/Distribution-iphonesimulator/CamouTweet.app/Default.png Default.png
+cProcessPCH /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch.gch HideMe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/main.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/HideMeAppDelegate.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/HideMeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/HideMeViewController.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/HideMeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/overDezeApp.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/overDezeApp.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/editImage.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/editImage.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/tweetImage.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/tweetImage.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/UIAlertView+Helper.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/UIAlertView+Helper.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/ExchangeCredentialsOperation.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/ExchangeCredentialsOperation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/XAuthTwitterEngine.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/XAuthTwitterEngine.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterEngine.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterEngine.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterHTTPURLConnection.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterHTTPURLConnection.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterLibXMLParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterLibXMLParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMessagesLibXMLParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMessagesLibXMLParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMessagesParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMessagesParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMiscLibXMLParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMiscLibXMLParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMiscParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMiscParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterStatusesLibXMLParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterStatusesLibXMLParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterStatusesParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterStatusesParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterUsersLibXMLParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterUsersLibXMLParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterUsersParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterUsersParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterXMLParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterXMLParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/NSData+MGTwitterBase64.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/NSData+MGTwitterBase64.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/NSString+UUID.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/NSString+UUID.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/appSettings.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/appSettings.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/CamouTweet" normal i386
+cGenerateDSYMFile "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app.dSYM" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/CamouTweet"
+cTouch "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C698CC70000000000000132
+t1281985735
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2/libxml/xmlreader.h
+c000000004BFDFE030000000000003107
+t1274936835
+s12551
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/libxml2.dylib
+c000000004BFDFE030000000000122A80
+t1274936835
+s1190528
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/19-gear.png
+c000000004971C31E000000000000019D
+t1232192286
+s413
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/HideMeAppDelegate.h
+c000000004C225D5800000000000001D8
+t1277320536
+s472
+i<UIKit/UIKit.h>
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/HideMeAppDelegate.m
+c000000004C2F37860000000000000DD1
+t1278162822
+s3537
+i"HideMeAppDelegate.h"
+i"HideMeViewController.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/HideMeViewController.h
+c000000004C6971F600000000000002FF
+t1281978870
+s767
+i<UIKit/UIKit.h>
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/HideMeViewController.m
+c000000004C6961F9000000000000138E
+t1281974777
+s5006
+i"HideMeViewController.h"
+i"overDezeApp.h"
+i"editImage.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/ExchangeCredentialsOperation.h
+c000000004C16D7C4000000000000028A
+t1276565444
+s650
+i<Foundation/Foundation.h>
+i"ExchangeCredentialsOperationDelegate.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/ExchangeCredentialsOperation.m
+c000000004C16D7C40000000000000D6A
+t1276565444
+s3434
+i"ExchangeCredentialsOperation.h"
+i"OAMutableURLRequest.h"
+i"OARequestParameter.h"
+i"OADataFetcher.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/ExchangeCredentialsOperationDelegate.h
+c000000004C16D7C400000000000000E7
+t1276565444
+s231
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterEngine.h
+c000000004C16D7C4000000000000213C
+t1276565444
+s8508
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterEngineDelegate.h"
+i"MGTwitterParserDelegate.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterEngine.m
+c000000004C16D7C4000000000000D226
+t1276565444
+s53798
+i"MGTwitterEngine.h"
+i"MGTwitterHTTPURLConnection.h"
+i"NSData+MGTwitterBase64.h"
+i"MGTwitterStatusesYAJLParser.h"
+i"MGTwitterMessagesYAJLParser.h"
+i"MGTwitterUsersYAJLParser.h"
+i"MGTwitterMiscYAJLParser.h"
+i"MGTwitterSearchYAJLParser.h"
+i"MGTwitterStatusesLibXMLParser.h"
+i"MGTwitterMessagesLibXMLParser.h"
+i"MGTwitterUsersLibXMLParser.h"
+i"MGTwitterMiscLibXMLParser.h"
+i"MGTwitterStatusesParser.h"
+i"MGTwitterUsersParser.h"
+i"MGTwitterMessagesParser.h"
+i"MGTwitterMiscParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterEngineDelegate.h
+c000000004C16D7C400000000000008CF
+t1276565444
+s2255
+i"MGTwitterEngineGlobalHeader.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterEngineGlobalHeader.h
+c000000004C16D7C400000000000007EC
+t1276565444
+s2028
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterHTTPURLConnection.h
+c000000004C16D7C40000000000000485
+t1276565444
+s1157
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterRequestTypes.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterHTTPURLConnection.m
+c000000004C16D7C4000000000000065A
+t1276565444
+s1626
+i"MGTwitterHTTPURLConnection.h"
+i"NSString+UUID.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterLibXMLParser.h
+c000000004C16D7C40000000000000600
+t1276565444
+s1536
+i"MGTwitterEngineGlobalHeader.h"
+i<libxml/xmlreader.h>
+i"MGTwitterParserDelegate.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterLibXMLParser.m
+c000000004C16D7C40000000000002684
+t1276565444
+s9860
+i"MGTwitterLibXMLParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMessagesLibXMLParser.h
+c000000004C16D7C4000000000000012A
+t1276565444
+s298
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterLibXMLParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMessagesLibXMLParser.m
+c000000004C16D7C40000000000000CD2
+t1276565444
+s3282
+i"MGTwitterMessagesLibXMLParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMessagesParser.h
+c000000004C16D7C40000000000000122
+t1276565444
+s290
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterStatusesParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMessagesParser.m
+c000000004C16D7C4000000000000076B
+t1276565444
+s1899
+i"MGTwitterMessagesParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMessagesYAJLParser.h
+c000000004C16D7C40000000000000183
+t1276565444
+s387
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterYAJLParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMiscLibXMLParser.h
+c000000004C16D7C40000000000000122
+t1276565444
+s290
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterLibXMLParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMiscLibXMLParser.m
+c000000004C16D7C40000000000000527
+t1276565444
+s1319
+i"MGTwitterMiscLibXMLParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMiscParser.h
+c000000004C16D7C40000000000000130
+t1276565444
+s304
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterStatusesParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMiscParser.m
+c000000004C16D7C4000000000000056A
+t1276565444
+s1386
+i"MGTwitterMiscParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMiscYAJLParser.h
+c000000004C16D7C4000000000000013B
+t1276565444
+s315
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterYAJLParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterParserDelegate.h
+c000000004C16D7C40000000000000330
+t1276565444
+s816
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterRequestTypes.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterRequestTypes.h
+c000000004C16D7C4000000000000105F
+t1276565444
+s4191
+i"MGTwitterEngineGlobalHeader.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterSearchYAJLParser.h
+c000000004C16D7C40000000000000170
+t1276565444
+s368
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterYAJLParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterStatusesLibXMLParser.h
+c000000004C16D7C4000000000000012A
+t1276565444
+s298
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterLibXMLParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterStatusesLibXMLParser.m
+c000000004C16D7C400000000000003A3
+t1276565444
+s931
+i"MGTwitterStatusesLibXMLParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterStatusesParser.h
+c000000004C16D7C40000000000000118
+t1276565444
+s280
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterXMLParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterStatusesParser.m
+c000000004C16D7C4000000000000084B
+t1276565444
+s2123
+i"MGTwitterStatusesParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterStatusesYAJLParser.h
+c000000004C16D7C4000000000000015E
+t1276565444
+s350
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterYAJLParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterUsersLibXMLParser.h
+c000000004C16D7C40000000000000124
+t1276565444
+s292
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterLibXMLParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterUsersLibXMLParser.m
+c000000004C16D7C40000000000000392
+t1276565444
+s914
+i"MGTwitterUsersLibXMLParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterUsersParser.h
+c000000004C16D7C4000000000000011C
+t1276565444
+s284
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterStatusesParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterUsersParser.m
+c000000004C16D7C400000000000006F2
+t1276565444
+s1778
+i"MGTwitterUsersParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterUsersYAJLParser.h
+c000000004C16D7C40000000000000159
+t1276565444
+s345
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterYAJLParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterXMLParser.h
+c000000004C16D7C400000000000005ED
+t1276565444
+s1517
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterParserDelegate.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterXMLParser.m
+c000000004C16D7C4000000000000141D
+t1276565444
+s5149
+i"MGTwitterXMLParser.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterYAJLParser.h
+c000000004C4024450000000000000651
+t1279272005
+s1617
+i"MGTwitterEngineGlobalHeader.h"
+i<yajl/yajl_parse.h>
+i"MGTwitterParserDelegate.h"
+i"MGTwitterEngineDelegate.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/NSData+MGTwitterBase64.h
+c000000004C16D7C4000000000000066F
+t1276565444
+s1647
+i"MGTwitterEngineGlobalHeader.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/NSData+MGTwitterBase64.m
+c000000004C16D7C40000000000000FDB
+t1276565444
+s4059
+i"NSData+MGTwitterBase64.h"
+i<Foundation/Foundation.h>
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/NSString+UUID.h
+c000000004C16D7C400000000000000ED
+t1276565444
+s237
+i"MGTwitterEngineGlobalHeader.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/NSString+UUID.m
+c000000004C16D7C400000000000001E3
+t1276565444
+s483
+i"NSString+UUID.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/OAuthConsumer/NSMutableURLRequest+Parameters.h
+c000000004C16D7C400000000000005AB
+t1276565444
+s1451
+i<Foundation/Foundation.h>
+i"OARequestParameter.h"
+i"NSURL+Base.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/OAuthConsumer/NSString+URLEncoding.h
+c000000004C16D7C4000000000000055D
+t1276565444
+s1373
+i<Foundation/Foundation.h>
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/OAuthConsumer/NSURL+Base.h
+c000000004C16D7C40000000000000540
+t1276565444
+s1344
+i<Foundation/Foundation.h>
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/OAuthConsumer/OAAsynchronousDataFetcher.h
+c000000004C16D7C40000000000000746
+t1276565444
+s1862
+i<Foundation/Foundation.h>
+i"OAMutableURLRequest.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/OAuthConsumer/OAConsumer.h
+c000000004C16D7C400000000000005CF
+t1276565444
+s1487
+i<Foundation/Foundation.h>
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/OAuthConsumer/OADataFetcher.h
+c000000004C16D7C400000000000006D6
+t1276565444
+s1750
+i<Foundation/Foundation.h>
+i"OAMutableURLRequest.h"
+i"OAServiceTicket.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/OAuthConsumer/OAHMAC_SHA1SignatureProvider.h
+c000000004C16D7C40000000000000573
+t1276565444
+s1395
+i<Foundation/Foundation.h>
+i"OASignatureProviding.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/OAuthConsumer/OAMutableURLRequest.h
+c000000004C16D7C400000000000008EF
+t1276565444
+s2287
+i<Foundation/Foundation.h>
+i"OAConsumer.h"
+i"OAToken.h"
+i"OAHMAC_SHA1SignatureProvider.h"
+i"OASignatureProviding.h"
+i"NSMutableURLRequest+Parameters.h"
+i"NSURL+Base.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/OAuthConsumer/OARequestParameter.h
+c000000004C16D7C400000000000006B5
+t1276565444
+s1717
+i<Foundation/Foundation.h>
+i"NSString+URLEncoding.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/OAuthConsumer/OAServiceTicket.h
+c000000004C16D7C40000000000000695
+t1276565444
+s1685
+i<Foundation/Foundation.h>
+i"OAMutableURLRequest.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/OAuthConsumer/OASignatureProviding.h
+c000000004C16D7C4000000000000057A
+t1276565444
+s1402
+i<Foundation/Foundation.h>
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/OAuthConsumer/OAToken.h
+c000000004C16D7C40000000000000753
+t1276565444
+s1875
+i<Foundation/Foundation.h>
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/OAuthConsumer/libOAuth.a
+c000000004C16D7C4000000000008DF6C
+t1276565444
+s581484
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/XAuthTwitterEngine.h
+c000000004C16D7C4000000000000060C
+t1276565444
+s1548
+i"MGTwitterEngine.h"
+i"XAuthTwitterEngineDelegate.h"
+i"ExchangeCredentialsOperationDelegate.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/XAuthTwitterEngine.m
+c000000004C16D7C400000000000036D4
+t1276565444
+s14036
+i"MGTwitterHTTPURLConnection.h"
+i"OAConsumer.h"
+i"OAMutableURLRequest.h"
+i"OADataFetcher.h"
+i"OAAsynchronousDataFetcher.h"
+i"OAToken.h"
+i"XAuthTwitterEngine.h"
+i"ExchangeCredentialsOperation.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/XAuthTwitterEngineDelegate.h
+c000000004C16D7C40000000000000365
+t1276565444
+s869
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/jQueryInject.txt
+c000000004C16D7C400000000000007A0
+t1276565444
+s1952
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/jQueryInjectLandscape.txt
+c000000004C16D7C400000000000007A0
+t1276565444
+s1952
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/UIAlertView+Helper.h
+c000000004C16D7C40000000000000169
+t1276565444
+s361
+i<UIKit/UIKit.h>
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/UIAlertView+Helper.m
+c000000004C16D7C40000000000000235
+t1276565444
+s565
+i"UIAlertView+Helper.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/appSettings.h
+c000000004C45BE2100000000000002BE
+t1279639073
+s702
+i<UIKit/UIKit.h>
+i"XAuthTwitterEngine.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/appSettings.m
+c000000004C6960E400000000000016A4
+t1281974500
+s5796
+i"appSettings.h"
+i"HideMeViewController.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/appSettings.xib
+c000000004C45BB9F00000000000065DD
+t1279638431
+s26077
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/editImage.h
+c000000004C5803080000000000000229
+t1280836360
+s553
+i<UIKit/UIKit.h>
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/editImage.m
+c000000004C581E230000000000002AC2
+t1280843299
+s10946
+i"editImage.h"
+i"tweetImage.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/editImage.xib
+c000000004C58045100000000000064ED
+t1280836689
+s25837
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/overDezeApp.h
+c000000004C45862B000000000000019F
+t1279624747
+s415
+i<UIKit/UIKit.h>
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/overDezeApp.m
+c000000004C45AADA0000000000000A4F
+t1279634138
+s2639
+i"overDezeApp.h"
+i"appSettings.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/overDezeApp.xib
+c000000004C58167300000000000091F8
+t1280841331
+s37368
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/tweetImage.h
+c000000004C456B4C00000000000003A2
+t1279617868
+s930
+i<UIKit/UIKit.h>
+i"OAToken.h"
+i"XAuthTwitterEngine.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/tweetImage.m
+c000000004C45B9900000000000001FB1
+t1279637904
+s8113
+i"tweetImage.h"
+i"HideMeViewController.h"
+i"editImage.h"
+i"XAuthTwitterEngine.h"
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/tweetImage.xib
+c000000004C42EF410000000000007523
+t1279455041
+s29987
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Default.png
+c000000004C46EFAB000000000001E27E
+t1279717291
+s123518
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/HideMeViewController.xib
+c000000004C45BCDF0000000000006FE7
+t1279638751
+s28647
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/HideMe_Prefix.pch
+c000000004C225D5800000000000000B5
+t1277320536
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/IncogniTweet.png
+c000000004C471BE9000000000000249E
+t1279728617
+s9374
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/MainWindow.xib
+c000000004C225D580000000000004E1D
+t1277320536
+s19997
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/background.png
+c000000004C3B38A80000000000027D44
+t1278949544
+s163140
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/background_start.png
+c000000004C3B3895000000000002C255
+t1278949525
+s180821
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app
+t1281986274
+s1020
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app.dSYM
+t1281986274
+s102
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/19-gear.png
+t1281986271
+s413
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/CamouTweet
+t1281986274
+s197936
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/Default.png
+t1281986271
+s123518
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/HideMeViewController.nib
+t1281986271
+s2425
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/IncogniTweet.png
+t1281986271
+s9374
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/Info.plist
+t1281986270
+s620
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/MainWindow.nib
+t1281986271
+s1121
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/PkgInfo
+t1281986270
+s8
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/appSettings.nib
+t1281986271
+s2314
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/background.png
+t1281986271
+s163140
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/background_start.png
+t1281986271
+s180821
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/cam_normal.png
+t1281986271
+s11890
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/cam_pressed.png
+t1281986271
+s11862
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/editImage.nib
+t1281986271
+s2199
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/empty.png
+t1281986271
+s2814
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/jQueryInject.txt
+t1281986271
+s1952
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/jQueryInjectLandscape.txt
+t1281986271
+s1952
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/lib_normal.png
+t1281986271
+s14576
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/lib_pressed.png
+t1281986271
+s14505
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/overDezeApp.nib
+t1281986271
+s3536
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/savesettings.png
+t1281986271
+s13394
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/settings.png
+t1281986271
+s9461
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/settings_background.png
+t1281986271
+s181326
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/tweet.png
+t1281986271
+s6682
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/tweetImage.nib
+t1281986271
+s2772
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/tweet_pressed.png
+t1281986271
+s6694
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/uitleg-links.png
+t1281986271
+s5661
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/uitleg-rechts.png
+t1281986271
+s5600
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/CamouTweet.LinkFileList
+c000000004C698EDE000000000000104F
+t1281986270
+s4175
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/ExchangeCredentialsOperation.o
+t1281986273
+s21776
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/HideMeAppDelegate.o
+t1281986272
+s48504
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/HideMeViewController.o
+t1281986272
+s56104
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterEngine.o
+t1281986273
+s91584
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterHTTPURLConnection.o
+t1281986273
+s16224
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterLibXMLParser.o
+t1281986273
+s29936
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMessagesLibXMLParser.o
+t1281986273
+s14492
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMessagesParser.o
+t1281986273
+s13568
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMiscLibXMLParser.o
+t1281986273
+s11920
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMiscParser.o
+t1281986273
+s13280
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterStatusesLibXMLParser.o
+t1281986273
+s10680
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterStatusesParser.o
+t1281986273
+s14356
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterUsersLibXMLParser.o
+t1281986273
+s10632
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterUsersParser.o
+t1281986273
+s13432
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterXMLParser.o
+t1281986273
+s27440
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/NSData+MGTwitterBase64.o
+t1281986273
+s11908
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/NSString+UUID.o
+t1281986273
+s6800
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/UIAlertView+Helper.o
+t1281986272
+s38376
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/XAuthTwitterEngine.o
+t1281986273
+s37036
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/appSettings.o
+t1281986273
+s53532
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/editImage.o
+t1281986273
+s64936
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/main.o
+t1281986272
+s6352
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/overDezeApp.o
+t1281986272
+s39100
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/tweetImage.o
+t1281986273
+s65900
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/cam_normal.png
+c000000004C3B39560000000000002E72
+t1278949718
+s11890
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/cam_pressed.png
+c000000004C3B39660000000000002E56
+t1278949734
+s11862
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/empty.png
+c000000004C3D9DE20000000000000AFE
+t1279106530
+s2814
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/lib_normal.png
+c000000004C3B42B600000000000038F0
+t1278952118
+s14576
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/lib_pressed.png
+c000000004C3B47C400000000000038A9
+t1278953412
+s14505
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/main.m
+c000000004C225D580000000000000167
+t1277320536
+s359
+i<UIKit/UIKit.h>
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/savesettings.png
+c000000004C459CF80000000000003452
+t1279630584
+s13394
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/settings.png
+c000000004C45973700000000000024F5
+t1279629111
+s9461
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/settings_background.png
+c000000004C459CC9000000000002C44E
+t1279630537
+s181326
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/tweet.png
+c000000004C3B4EF10000000000001A1A
+t1278955249
+s6682
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/tweet_pressed.png
+c000000004C3B4F300000000000001A26
+t1278955312
+s6694
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/uitleg-links.png
+c000000004C3B4A0D000000000000161D
+t1278953997
+s5661
+
+N/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/uitleg-rechts.png
+c000000004C3B4A2C00000000000015E0
+t1278954028
+s5600
+
+N/var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch.gch
+t1281986272
+s14896144
+
+NHideMe-Info.plist
+c000000004C698D1A0000000000000350
+t1281985818
+s848
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303679070#303679070#0(0"0(0#1#0"8604875392#0"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/ExchangeCredentialsOperation.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/ExchangeCredentialsOperation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679072.865032
+e303679073.003510
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/ExchangeCredentialsOperation.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/ExchangeCredentialsOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@137"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/ExchangeCredentialsOperation.m303679072#303679073#0(0"0(0#0#129"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/ExchangeCredentialsOperation.m8609473632#2557"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/ExchangeCredentialsOperation.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/ExchangeCredentialsOperation.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/HideMeAppDelegate.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/HideMeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679072.558241
+e303679072.797890
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/HideMeAppDelegate.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/HideMeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/HideMeAppDelegate.m303679072#303679072#0(0"0(0#0#98"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/HideMeAppDelegate.m8609837024#2515"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/HideMeAppDelegate.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/HideMeAppDelegate.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/HideMeViewController.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/HideMeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679072.559177
+e303679072.864899
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/HideMeViewController.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/HideMeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/HideMeViewController.m303679072#303679072#0(0"0(0#0#101"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/HideMeViewController.m8609539616#2521"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/HideMeViewController.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/HideMeViewController.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterEngine.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterEngine.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679073.003661
+e303679073.850232
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterEngine.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterEngine.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@124"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterEngine.m303679073#303679073#0(0"0(0#0#116"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterEngine.m8606225920#2531"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterEngine.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterEngine.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterHTTPURLConnection.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterHTTPURLConnection.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679073.049250
+e303679073.173676
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterHTTPURLConnection.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterHTTPURLConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@135"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterHTTPURLConnection.m303679073#303679073#0(0"0(0#0#127"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterHTTPURLConnection.m8610539488#2553"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterHTTPURLConnection.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterHTTPURLConnection.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterLibXMLParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterLibXMLParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679073.069797
+e303679073.382044
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterLibXMLParser.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterLibXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@130"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterLibXMLParser.m303679073#303679073#0(0"0(0#0#122"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterLibXMLParser.m8609914304#2543"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterLibXMLParser.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterLibXMLParser.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMessagesLibXMLParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMessagesLibXMLParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679073.173820
+e303679073.347168
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMessagesLibXMLParser.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMessagesLibXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@138"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMessagesLibXMLParser.m303679073#303679073#0(0"0(0#0#130"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMessagesLibXMLParser.m8608860800#2559"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMessagesLibXMLParser.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMessagesLibXMLParser.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMessagesParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMessagesParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679073.234803
+e303679073.327426
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMessagesParser.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMessagesParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@132"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMessagesParser.m303679073#303679073#0(0"0(0#0#124"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMessagesParser.m8607807360#2547"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMessagesParser.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMessagesParser.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMiscLibXMLParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMiscLibXMLParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679073.327572
+e303679073.453348
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMiscLibXMLParser.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMiscLibXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@134"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMiscLibXMLParser.m303679073#303679073#0(0"0(0#0#126"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMiscLibXMLParser.m8609763872#2551"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMiscLibXMLParser.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMiscLibXMLParser.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMiscParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMiscParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679073.347322
+e303679073.451788
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMiscParser.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMiscParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@128"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMiscParser.m303679073#303679073#0(0"0(0#0#120"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMiscParser.m8606198688#2539"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterMiscParser.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterMiscParser.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterStatusesLibXMLParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterStatusesLibXMLParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679073.382191
+e303679073.510189
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterStatusesLibXMLParser.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterStatusesLibXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@138"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterStatusesLibXMLParser.m303679073#303679073#0(0"0(0#0#130"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterStatusesLibXMLParser.m8610399680#2559"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterStatusesLibXMLParser.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterStatusesLibXMLParser.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterStatusesParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterStatusesParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679073.451921
+e303679073.557141
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterStatusesParser.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterStatusesParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@132"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterStatusesParser.m303679073#303679073#0(0"0(0#0#124"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterStatusesParser.m8608687392#2547"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterStatusesParser.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterStatusesParser.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterUsersLibXMLParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterUsersLibXMLParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679073.453458
+e303679073.585360
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterUsersLibXMLParser.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterUsersLibXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@135"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterUsersLibXMLParser.m303679073#303679073#0(0"0(0#0#127"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterUsersLibXMLParser.m8608212864#2553"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterUsersLibXMLParser.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterUsersLibXMLParser.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterUsersParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterUsersParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679073.510337
+e303679073.612859
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterUsersParser.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterUsersParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@129"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterUsersParser.m303679073#303679073#0(0"0(0#0#121"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterUsersParser.m8606269280#2541"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterUsersParser.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterUsersParser.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterXMLParser.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterXMLParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679073.557302
+e303679073.749884
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterXMLParser.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@127"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterXMLParser.m303679073#303679073#0(0"0(0#0#119"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterXMLParser.m8610333120#2537"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/MGTwitterXMLParser.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/MGTwitterXMLParser.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/NSData+MGTwitterBase64.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/NSData+MGTwitterBase64.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679073.585495
+e303679073.714615
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/NSData+MGTwitterBase64.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/NSData+MGTwitterBase64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@131"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/NSData+MGTwitterBase64.m303679073#303679073#0(0"0(0#0#123"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/NSData+MGTwitterBase64.m8608931648#2545"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/NSData+MGTwitterBase64.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/NSData+MGTwitterBase64.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/NSString+UUID.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/NSString+UUID.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679073.613005
+e303679073.673618
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/NSString+UUID.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/NSString+UUID.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@122"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/NSString+UUID.m303679073#303679073#0(0"0(0#0#114"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/NSString+UUID.m8608283232#2527"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/NSString+UUID.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/NSString+UUID.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/UIAlertView+Helper.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/UIAlertView+Helper.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679072.798060
+e303679072.900246
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/UIAlertView+Helper.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/UIAlertView+Helper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/UIAlertView+Helper.m303679072#303679072#0(0"0(0#0#99"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/UIAlertView+Helper.m8610435008#2517"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/UIAlertView+Helper.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/UIAlertView+Helper.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/XAuthTwitterEngine.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/XAuthTwitterEngine.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679072.900397
+e303679073.234660
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/XAuthTwitterEngine.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/XAuthTwitterEngine.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@127"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/XAuthTwitterEngine.m303679072#303679073#0(0"0(0#0#119"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/XAuthTwitterEngine.m8605440192#2537"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/XAuthTwitterEngine.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/XAuthTwitterEngine.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/appSettings.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/appSettings.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679073.673759
+e303679073.826088
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/appSettings.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/appSettings.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/appSettings.m303679073#303679073#0(0"0(0#0#92"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/appSettings.m8606592416#2503"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/appSettings.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/appSettings.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/editImage.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/editImage.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679072.737224
+e303679073.049084
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/editImage.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/editImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/editImage.m303679072#303679073#0(0"0(0#0#90"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/editImage.m8608414656#2499"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/editImage.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/editImage.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/main.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679072.557154
+e303679072.737083
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/main.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/main.m303679072#303679072#0(0"0(0#0#77"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/main.m8610275808#2481"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/main.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/overDezeApp.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/overDezeApp.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679072.560411
+e303679072.777056
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/overDezeApp.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/overDezeApp.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/overDezeApp.m303679072#303679072#0(0"0(0#0#92"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/overDezeApp.m8609199360#2503"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/overDezeApp.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/overDezeApp.o"0#
+
+CCompileC build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/tweetImage.o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/tweetImage.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679072.777192
+e303679073.069647
+r1
+xCompileC
+xbuild/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/tweetImage.o
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/tweetImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/tweetImage.m303679072#303679073#0(0"0(0#0#91"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/tweetImage.m8607995616#2501"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/tweetImage.m" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/tweetImage.o"0#
+
+CCompileXIB "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/appSettings.xib"
+s303679071.304718
+e303679071.793361
+r1
+xCompileXIB
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/appSettings.xib
+lSLF07#2@34"CompileXIB Classes/appSettings.xib303679071#303679071#0(0"0(0#0#94"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/appSettings.xib8608138464#692"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/appSettings.nib" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/appSettings.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/editImage.xib"
+s303679070.623514
+e303679071.269913
+r1
+xCompileXIB
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/editImage.xib
+lSLF07#2@32"CompileXIB Classes/editImage.xib303679070#303679071#0(0"0(0#0#92"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/editImage.xib8609414016#688"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/editImage.nib" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/editImage.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/overDezeApp.xib"
+s303679070.622745
+e303679071.439171
+r1
+xCompileXIB
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/overDezeApp.xib
+lSLF07#2@34"CompileXIB Classes/overDezeApp.xib303679070#303679071#0(0"0(0#0#94"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/overDezeApp.xib8610324480#692"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/overDezeApp.nib" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/overDezeApp.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/tweetImage.xib"
+s303679071.145645
+e303679071.801465
+r1
+xCompileXIB
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/tweetImage.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/tweetImage.xib:6: warning: UITextView does not support data detectors when the text view is editable.
+lSLF07#2@33"CompileXIB Classes/tweetImage.xib303679071#303679071#0(222"/* com.apple.ibtool.document.warnings *//Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/tweetImage.xib:6: warning: UITextView does not support data detectors when the text view is editable.1(22@74"UITextView does not support data detectors when the text view is editable.303679071#18446744073709551615#0#0(6@93"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/tweetImage.xib301147841#6#0#6#0#0"0(0#0#93"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/tweetImage.xib8596938976#690"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/tweetImage.nib" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/tweetImage.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/HideMeViewController.xib"
+s303679070.620652
+e303679071.346158
+r1
+xCompileXIB
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/HideMeViewController.xib
+lSLF07#2@35"CompileXIB HideMeViewController.xib303679070#303679071#0(0"0(0#0#95"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/HideMeViewController.xib8605052448#702"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/HideMeViewController.nib" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/HideMeViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/MainWindow.xib"
+s303679070.619895
+e303679071.145512
+r1
+xCompileXIB
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib303679070#303679071#0(0"0(0#0#85"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/MainWindow.xib8606489344#682"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/MainWindow.nib" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/19-gear.png 19-gear.png
+s303679071.270067
+e303679071.276979
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/19-gear.png
+x19-gear.png
+lSLF07#2@16"Copy 19-gear.png303679071#303679071#0(0"0(0#0#82"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/19-gear.png8604972032#588"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/19-gear.png" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/Default.png Default.png
+s303679071.346283
+e303679071.352682
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png303679071#303679071#0(0"0(0#0#82"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Default.png8605961152#588"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Default.png" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/IncogniTweet.png IncogniTweet.png
+s303679071.271110
+e303679071.283974
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/IncogniTweet.png
+xIncogniTweet.png
+lSLF07#2@21"Copy IncogniTweet.png303679071#303679071#0(0"0(0#0#87"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/IncogniTweet.png8608637856#593"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/IncogniTweet.png" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/background.png background.png
+s303679071.272584
+e303679071.279659
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/background.png
+xbackground.png
+lSLF07#2@19"Copy background.png303679071#303679071#0(0"0(0#0#85"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/background.png8606544128#591"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/background.png" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/background_start.png background_start.png
+s303679071.271853
+e303679071.281801
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/background_start.png
+xbackground_start.png
+lSLF07#2@25"Copy background_start.png303679071#303679071#0(0"0(0#0#91"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/background_start.png8608181248#597"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/background_start.png" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/cam_normal.png cam_normal.png
+s303679071.273311
+e303679071.287899
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/cam_normal.png
+xcam_normal.png
+lSLF07#2@19"Copy cam_normal.png303679071#303679071#0(0"0(0#0#85"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/cam_normal.png8606210880#591"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/cam_normal.png" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/cam_pressed.png cam_pressed.png
+s303679071.274013
+e303679071.286333
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/cam_pressed.png
+xcam_pressed.png
+lSLF07#2@20"Copy cam_pressed.png303679071#303679071#0(0"0(0#0#86"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/cam_pressed.png8605766912#592"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/cam_pressed.png" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/empty.png empty.png
+s303679071.286417
+e303679071.308144
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/empty.png
+xempty.png
+lSLF07#2@14"Copy empty.png303679071#303679071#0(0"0(0#0#80"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/empty.png8605741440#586"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/empty.png" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/jQueryInject.txt "Classes/Libraries & Headers/jQueryInject.txt"
+s303679071.287130
+e303679071.302249
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/jQueryInject.txt
+xClasses/Libraries & Headers/jQueryInject.txt
+lSLF07#2@49"Copy Classes/Libraries & Headers/jQueryInject.txt303679071#303679071#0(0"0(0#0#115"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/jQueryInject.txt8605386336#621"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/jQueryInject.txt" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/jQueryInjectLandscape.txt "Classes/Libraries & Headers/jQueryInjectLandscape.txt"
+s303679071.288046
+e303679071.304408
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/jQueryInjectLandscape.txt
+xClasses/Libraries & Headers/jQueryInjectLandscape.txt
+lSLF07#2@58"Copy Classes/Libraries & Headers/jQueryInjectLandscape.txt303679071#303679071#0(0"0(0#0#124"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/jQueryInjectLandscape.txt8610327648#630"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/jQueryInjectLandscape.txt" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/lib_normal.png lib_normal.png
+s303679071.274873
+e303679071.284146
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/lib_normal.png
+xlib_normal.png
+lSLF07#2@19"Copy lib_normal.png303679071#303679071#0(0"0(0#0#85"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/lib_normal.png8605124064#591"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/lib_normal.png" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/lib_pressed.png lib_pressed.png
+s303679071.277080
+e303679071.286135
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/lib_pressed.png
+xlib_pressed.png
+lSLF07#2@20"Copy lib_pressed.png303679071#303679071#0(0"0(0#0#86"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/lib_pressed.png8609405856#592"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/lib_pressed.png" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/savesettings.png savesettings.png
+s303679071.299145
+e303679071.310796
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/savesettings.png
+xsavesettings.png
+lSLF07#2@21"Copy savesettings.png303679071#303679071#0(0"0(0#0#87"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/savesettings.png8610544448#593"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/savesettings.png" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/settings.png settings.png
+s303679071.292743
+e303679071.307234
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/settings.png
+xsettings.png
+lSLF07#2@17"Copy settings.png303679071#303679071#0(0"0(0#0#83"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/settings.png8604785216#589"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/settings.png" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/settings_background.png settings_background.png
+s303679071.302379
+e303679071.315207
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/settings_background.png
+xsettings_background.png
+lSLF07#2@28"Copy settings_background.png303679071#303679071#0(0"0(0#0#94"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/settings_background.png8608970048#600"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/settings_background.png" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/tweet.png tweet.png
+s303679071.285168
+e303679071.304572
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/tweet.png
+xtweet.png
+lSLF07#2@14"Copy tweet.png303679071#303679071#0(0"0(0#0#80"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/tweet.png8606684128#586"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/tweet.png" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/tweet_pressed.png tweet_pressed.png
+s303679071.284244
+e303679071.299025
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/tweet_pressed.png
+xtweet_pressed.png
+lSLF07#2@22"Copy tweet_pressed.png303679071#303679071#0(0"0(0#0#88"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/tweet_pressed.png8595573664#594"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/tweet_pressed.png" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/uitleg-links.png uitleg-links.png
+s303679071.279776
+e303679071.292627
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/uitleg-links.png
+xuitleg-links.png
+lSLF07#2@21"Copy uitleg-links.png303679071#303679071#0(0"0(0#0#87"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/uitleg-links.png8608907584#593"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/uitleg-links.png" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CCpResource build/Distribution-iphonesimulator/CamouTweet.app/uitleg-rechts.png uitleg-rechts.png
+s303679071.281913
+e303679071.307046
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/CamouTweet.app/uitleg-rechts.png
+xuitleg-rechts.png
+lSLF07#2@22"Copy uitleg-rechts.png303679071#303679071#0(0"0(0#0#88"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/uitleg-rechts.png8608049408#594"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/uitleg-rechts.png" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
+CGenerateDSYMFile "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app.dSYM" "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/CamouTweet"
+s303679074.068723
+e303679074.116509
+r1
+xGenerateDSYMFile
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app.dSYM
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/CamouTweet
+lSLF07#2@132"GenerateDSYMFile build/Distribution-iphonesimulator/CamouTweet.app.dSYM build/Distribution-iphonesimulator/CamouTweet.app/CamouTweet303679074#303679074#0(0"0(0#0#131"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/CamouTweet8608021120#508"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/CamouTweet" -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app.dSYM"0#
+
+CLd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/CamouTweet" normal i386
+s303679073.850332
+e303679074.068462
+r1
+xLd
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/CamouTweet
+xnormal
+xi386
+lSLF07#2@136"Link /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/CamouTweet303679073#303679074#0(0"0(0#0#0"8610215744#1504"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-L/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3" "-L/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Libraries & Headers/OAuthConsumer" "-L/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes/Libraries & Headers/OAuthConsumer" "-L/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/Classes" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" -filelist "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/Objects-normal/i386/CamouTweet.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lxml2 -lOAuth -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/CamouTweet"0#
+
+CProcessInfoPlistFile "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/Info.plist" HideMe-Info.plist
+s303679070.613655
+e303679070.619786
+r1
+xProcessInfoPlistFile
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/Info.plist
+xHideMe-Info.plist
+lSLF07#2@25"Process HideMe-Info.plist303679070#303679070#0(0"0(0#0#88"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/HideMe-Info.plist8608238752#600"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HideMe-Info.plist -genpkginfo "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app/Info.plist"0#
+
+CProcessPCH /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch.gch HideMe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s303679071.801596
+e303679072.556915
+r1
+xProcessPCH
+x/var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch.gch
+xHideMe_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile HideMe_Prefix.pch303679071#303679072#0(0"0(0#0#88"/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/HideMe_Prefix.pch8612231360#2333"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-generated-files.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-own-target-headers.hmap" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-all-target-headers.hmap" -iquote "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/CamouTweet-project-headers.hmap" "-F/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources/i386" "-I/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/HideMe.build/Distribution-iphonesimulator/HideMe.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/HideMe_Prefix.pch" -o /var/folders/Aa/AaF3rHwdEJCV0cZvYFdIwE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HideMe_Prefix-egzsefuihwongrhaboifsieotjcg/HideMe_Prefix.pch.gch0#
+
+CTouch "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"
+s303679074.116603
+e303679074.119567
+r1
+xTouch
+x/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app
+lSLF07#2@126"Touch /Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app303679074#303679074#0(0"0(0#0#0"8610641408#356"    cd "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Martijn/Documents/iPhone Apps/Martijn/CamouTweet/CamouTweet 1.3/build/Distribution-iphonesimulator/CamouTweet.app"0#
+
