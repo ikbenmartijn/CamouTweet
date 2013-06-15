@@ -10,8 +10,8 @@
 #import "OAToken.h";
 #import "XAuthTwitterEngine.h"
 
-#define kOAuthConsumerKey		@"t0AKkNQLKOn4d6q6w2tVQ"
-#define	kOAuthConsumerSecret	@"NxnxFOZWbrpC7mxbydQPokyrxJJOPhTcS0qfGQUTUNM"
+#define kOAuthConsumerKey		@"OAUTH_CONSUMER_KEY"
+#define	kOAuthConsumerSecret	@"OAUTH_CONSUMER_SECRET"
 #define kCachedXAuthAccessTokenStringKey	@"cachedXAuthAccessTokenKey"
 
 @interface tweetImage : UIViewController <UITextViewDelegate> {
